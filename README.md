@@ -6,6 +6,8 @@ feel free to use it i dont care.
 
 
 
+# Credit
+Pls credit me if you want to use my code :)
 
 
 
