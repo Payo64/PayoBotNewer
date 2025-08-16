@@ -1,5 +1,7 @@
 # About
-My Discord Bot Code for my discord bot named Payo Bot written in Javascript without the token and client id
+My Discord Bot Code for my discord bot named Payo Bot written in Javascript without the token and client id,
+
+
 feel free to use it i dont care.
 
 
