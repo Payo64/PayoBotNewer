@@ -20,3 +20,55 @@ Im using a free hosting service so i need to manually add 24 hours to keep the d
 
 
 (i will never update my discord bot's code because im suck at javascript)
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+ one more thing its mostly ai generated
